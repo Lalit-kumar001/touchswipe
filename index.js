@@ -4,7 +4,7 @@ startX,
 startY,
 dist,
 threshold = 150, //required min distance traveled to be considered swipe
-allowedTime = 300, // maximum time allowed to travel that distance
+allowedTime = 400, // maximum time allowed to travel that distance
 elapsedTime,
 startTime
 
